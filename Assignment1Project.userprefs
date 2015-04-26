@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyAssets\Scripts\SceneTransition.cs">
+    <Files>
+      <File FileName="Assets\MyAssets\Scripts\EnemyDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\EnemyProjectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\EnemySpawnerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\PlayerProjectileSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\PowerUpMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\PowerUpSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\PowerUpSpawnerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\ProjectileSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\TurretController.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\Scripts\SceneTransition.cs" Line="6" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
